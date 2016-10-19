@@ -7,6 +7,7 @@ All notable changes to the Pony compiler and standard library will be documented
 ### Fixed
 
 - Concatenate docstrings from case methods (issue #575).
+- Compiler assert fail on circular type inference error (issue #1334).
 
 ### Added
 
